@@ -4,4 +4,5 @@
 
 ## Reference
 
-[드림 코딩](https://academy.dream-coding.com/courses/web-roadmap)
+- [드림 코딩](https://academy.dream-coding.com/courses/web-roadmap)
+- [Youtube](https://www.youtube.com/watch?v=TTLHd3IyErM)
